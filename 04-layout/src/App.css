@@ -1,0 +1,16 @@
+.cont-app{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+
+.cont-header{
+  background-color: green;
+  /*Define a altura como 100px*/
+  height: 100px;
+}
+.cont-main{
+  background-color: greenyellow;
+  flex: 1;
+}
