@@ -1,17 +1,13 @@
 function Tabuada() {
     function contas(){
-        let nome = Number(prompt("Digite o numero:"))
-        let calcular = 0
-        for (let i = 0; i < 10; i++) {
-            calcular = nome * i
-            alert(calcular)
-    }
-}
+
+        
         return (
-        <div>
+            <div style={{backgroundColor: 'red'}}>
             <h1>Tabuada</h1>
-            <button onClick={contas}>Tabuada</button>
+            <button>Tabuada</button>
         </div>
     )
+ }
 }
 export default Tabuada
