@@ -1,0 +1,26 @@
+.cont-home{
+    background-image: url();
+    background-position: center;
+    text-align: center;
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+    height: 100vh;    
+    flex: 1;
+}
+.cont-produto{
+    background-image: url();
+    background-position: center;
+    flex: 1;
+}
+.cont-contato{
+    background-image: url();
+    background-position: center;
+    object-fit: cover;
+    flex: 1;
+}
+.cont-pizza{
+    background-image: url();
+    background-position:  center;
+    flex: 1;
+}
