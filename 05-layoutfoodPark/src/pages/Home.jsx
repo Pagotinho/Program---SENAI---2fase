@@ -8,6 +8,7 @@ function Home() {
     <p>Aqui você encontra o melhor da comida de rua em um só lugar:
       carnes suculentas direto da brasa, salmãos deliciosos e lanches absurdamente bons!</p>
 
+
    
 
 <div className="menu">
