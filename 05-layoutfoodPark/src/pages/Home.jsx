@@ -1,5 +1,5 @@
 import './Paginas.css'
-
+//Inicio da Pagina
 function Home() {
   return (
     <div className={'cont-home'}>
@@ -18,6 +18,7 @@ function Home() {
       </div>
 
     </div>
+
   )
 }
 

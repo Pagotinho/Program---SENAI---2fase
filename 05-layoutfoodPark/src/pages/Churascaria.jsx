@@ -1,5 +1,5 @@
 import './Paginas.css'
-
+//Salmão/Comida Japonesa
 function Churascaria() {
   return (
     <div className={'cont-pizza'}>

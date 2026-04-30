@@ -1,12 +1,23 @@
 .cont-home{
     background-image: url();
+    position: relative;
     background-position: center;
-    text-align: center;
-    display: flex;
-    justify-content: center; 
-    align-items: center;     
-    height: 100vh;    
+    background-size: cover;
+    text-align: center; 
+    height: 10vh;    
     flex: 1;
+}
+.churras {
+    position: absolute;
+    top: 500%;
+    left: 200px;
+}
+.lanchonete {
+    position: relative;
+    top:440%;
+    left: 0%;
+    size: 10%;
+    
 }
 .cont-produto{
     background-image: url();
